@@ -33,7 +33,7 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@jupyterlab/application": "^2.0.0 || ^3.0.0",
+    "@jupyterlab/application": "^3.6.5",
     "@jupyterlab/notebook": "^2.0.0 || ^3.0.0",
     "@jupyterlab/console": "^2.0.0 || ^3.0.0"
   },
