@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^2.0.0 || ^3.0.0",
-    "@jupyterlab/notebook": "^2.0.0 || ^3.0.0",
+    "@jupyterlab/notebook": "^3.6.5",
     "@jupyterlab/console": "^2.0.0 || ^3.0.0"
   },
   "devDependencies": {
